@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1648671633627" clover="3.2.0">
+  <project timestamp="1648671633627" name="All files">
+    <metrics statements="266" coveredstatements="189" conditionals="32" coveredconditionals="22" methods="154" coveredmethods="92" elements="452" coveredelements="303" complexity="0" loc="266" ncloc="266" packages="23" files="39" classes="39"/>
+    <package name="components.footer">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="footer.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/footer/footer.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.login">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="login.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/login/login.tsx">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.main.detail">
+      <metrics statements="17" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="10" coveredmethods="3"/>
+      <file name="detail.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/main/detail/detail.tsx">
+        <metrics statements="17" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="10" coveredmethods="3"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.main.feed">
+      <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+      <file name="feed.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/main/feed/feed.tsx">
+        <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.main.profile">
+      <metrics statements="79" coveredstatements="43" conditionals="6" coveredconditionals="0" methods="46" coveredmethods="19"/>
+      <file name="follower.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/main/profile/follower.tsx">
+        <metrics statements="14" coveredstatements="9" conditionals="2" coveredconditionals="0" methods="9" coveredmethods="4"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+      </file>
+      <file name="following.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/main/profile/following.tsx">
+        <metrics statements="14" coveredstatements="9" conditionals="2" coveredconditionals="0" methods="9" coveredmethods="4"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+      </file>
+      <file name="form.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/main/profile/form.tsx">
+        <metrics statements="29" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="14" coveredmethods="2"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+      </file>
+      <file name="header.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/main/profile/header.tsx">
+        <metrics statements="11" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="4"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+      </file>
+      <file name="main.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/main/profile/main.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.main.shop">
+      <metrics statements="7" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+      <file name="shop.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/main/shop/shop.tsx">
+        <metrics statements="7" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.nav-bar">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="nav-bar.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/nav-bar/nav-bar.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.popUp">
+      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="popUp.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/popUp/popUp.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="5" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="components.register">
+      <metrics statements="19" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="7"/>
+      <file name="register.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/components/register/register.tsx">
+        <metrics statements="19" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="7"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="firebase">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="connection.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/firebase/connection.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="interfaces">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="collection-i.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/interfaces/collection-i.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="item-i.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/interfaces/item-i.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="user-i.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/interfaces/user-i.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="pages.detailPage">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="detailPage.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/pages/detailPage/detailPage.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.feedPage">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="feedPage.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/pages/feedPage/feedPage.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.profilePage">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="profilePage.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/pages/profilePage/profilePage.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.registerPage">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="registerPage.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/pages/registerPage/registerPage.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.shopPage">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="shopPage.tsx" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/pages/shopPage/shopPage.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="hooks.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/hooks.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="21" type="stmt"/>
+        <line num="6" count="16" type="stmt"/>
+      </file>
+      <file name="test.utils.js" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/test.utils.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="30" count="20" type="stmt"/>
+        <line num="32" count="20" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux.collection">
+      <metrics statements="25" coveredstatements="17" conditionals="7" coveredconditionals="7" methods="17" coveredmethods="9"/>
+      <file name="action-creators.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/collection/action-creators.ts">
+        <metrics statements="15" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="15" coveredmethods="8"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+      </file>
+      <file name="action-types.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/collection/action-types.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="21" type="stmt"/>
+      </file>
+      <file name="collection-reducer.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/collection/collection-reducer.ts">
+        <metrics statements="9" coveredstatements="8" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="1"/>
+        <line num="11" count="19" type="stmt"/>
+        <line num="19" count="65" type="cond" truecount="6" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="40" count="60" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux.item">
+      <metrics statements="8" coveredstatements="8" conditionals="3" coveredconditionals="3" methods="4" coveredmethods="4"/>
+      <file name="action-creators.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/item/action-creators.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="action-types.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/item/action-types.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="20" type="stmt"/>
+      </file>
+      <file name="item-reducer.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/item/item-reducer.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="10" count="19" type="stmt"/>
+        <line num="15" count="61" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="60" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux.login-register">
+      <metrics statements="22" coveredstatements="19" conditionals="8" coveredconditionals="6" methods="10" coveredmethods="9"/>
+      <file name="action-creators.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/login-register/action-creators.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+      <file name="action-types.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/login-register/action-types.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="20" type="stmt"/>
+      </file>
+      <file name="login-register-reducer.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/login-register/login-register-reducer.ts">
+        <metrics statements="13" coveredstatements="10" conditionals="8" coveredconditionals="6" methods="2" coveredmethods="1"/>
+        <line num="23" count="19" type="stmt"/>
+        <line num="39" count="64" type="cond" truecount="5" falsecount="2"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="68" count="60" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux.user">
+      <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="12"/>
+      <file name="action-creators.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/user/action-creators.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="12"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+      <file name="action-types.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/redux/user/action-types.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="20" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="login-register-api.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/services/login-register-api.ts">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="services.api">
+      <metrics statements="29" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="5"/>
+      <file name="collection-api.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/services/api/collection-api.ts">
+        <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+      <file name="item-api.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/services/api/item-api.ts">
+        <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="user-api.ts" path="/Users/lucadetenafelipe/Desktop/isdi coders/proyecto final/Felipe-LucaDeTena_Front-Final-Project-202201-MAD/src/services/api/user-api.ts">
+        <metrics statements="9" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="8" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="27" count="8" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

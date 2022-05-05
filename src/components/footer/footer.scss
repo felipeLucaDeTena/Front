@@ -1,0 +1,53 @@
+.footer {
+    width: 98vw;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 15vw 0 0 0;
+    height: 15vw;
+    margin-left: auto;
+    &__outer {
+        background-color: #abacab;
+        display: flex;
+        align-items: flex-end;
+        height: 17vw;
+    }
+    &__container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    &__adress {
+        font-size: 1vw;
+        color: #abacab;
+    }
+    &__icon {
+        background-color: white;
+        color: #abacab;
+        border: 3px solid #abacab;
+        margin: 1vw;
+        padding: 1vw;
+        border-radius: 20vw;
+        width: 4vw;
+        height: 4vw;
+    }
+    &__icon:hover {
+        background-color: #abacab;
+        color: white;
+        border: 3px solid #abacab;
+    }
+}
+.title {
+    font-size: 2vw;
+    margin-top: 2.6vw;
+}
+.logo {
+    display: flex;
+}
+.br {
+    height: 1vw;
+}
+.icons {
+    display: flex;
+}

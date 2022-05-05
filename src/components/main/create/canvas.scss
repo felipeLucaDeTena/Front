@@ -1,0 +1,102 @@
+.canvas {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    background-color: #abacab;
+    &__button {
+        background-color: white;
+        color: #abacab;
+        padding: 0.5vw 1vw;
+        border: 1px solid #abacab;
+        border-radius: 20vw 20vw;
+        margin: 1vw 1vw 2vw 1vw;
+        cursor: pointer;
+        &:hover {
+            background-color: #abacab;
+            color: white;
+        }
+        &__container {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+    }
+}
+.stage {
+    background-color: white;
+    height: 40vw;
+    width: 40vw;
+    border: 1px solid #abacab;
+    &__container {
+        background-color: white;
+        width: 70vw;
+        height: 55vw;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    &__title {
+        color: #abacab;
+        font-size: 2vw;
+    }
+}
+
+.stickers {
+    background-color: white;
+    height: 40vw;
+    width: 30vw;
+    overflow: scroll;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #abacab;
+
+    &__button {
+        background-color: white;
+        border: 1px solid #abacab;
+        border-radius: 4vw;
+        height: 12vw;
+        width: 11vw;
+    }
+}
+.sticker {
+    &__button {
+        background-color: white;
+        color: #abacab;
+        padding: 0.5vw 1vw;
+        border: 1px solid #abacab;
+        border-radius: 20vw 20vw;
+        margin: 1vw;
+        &:hover {
+            background-color: #abacab;
+            color: white;
+        }
+    }
+    &__container {
+        background-color: white;
+        width: 30vw;
+        margin: 0 3vw 0 3vw;
+        height: 55vw;
+        border-radius: 0 3vw 3vw 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        &__button {
+            width: 20vw;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 1vw;
+            font-size: 2px;
+        }
+    }
+    &__search {
+        width: 20vw;
+        margin: 1vw 0 1vw 0;
+        border-radius: 1vw;
+        border: #abacab solid;
+        font-size: 2vw;
+        text-align: center;
+        padding: 0.5vw;
+    }
+}

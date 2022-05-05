@@ -1,0 +1,75 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    background-color: #abacab;
+    width: 65vh;
+    height: 65vh;
+    border-radius: 3vh;
+
+    &__login {
+        width: 100%;
+    }
+    &__form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        &__input {
+            height: 4vh;
+            width: 30vh;
+            margin: 2vh;
+            border-radius: 1vh;
+            border-style: none;
+            text-align: center;
+        }
+        &__button {
+            color: white;
+            background-color: transparent;
+            border: 1px solid white;
+            border-radius: 40vw;
+            &__text {
+                font-size: 10vw;
+            }
+        }
+    }
+    &__p {
+        margin: 0 0 5vh 0;
+    }
+}
+.text {
+    font-size: 0.7rem;
+    color: white;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    &__logo {
+        width: 100%;
+        height: 100%;
+        &__svg {
+            margin-left: 120px;
+        }
+        &__letters {
+            font-size: 4vh;
+            margin: 1vh;
+        }
+    }
+    &__h1 {
+        color: white;
+        margin: 5vh 0 1.5vh 0;
+    }
+    &__p {
+        text-align: center;
+        margin: 1.5vh 0 0 0;
+        color: white;
+    }
+    &__close {
+        background-color: transparent;
+        border: 1px solid white;
+        color: white;
+        font-size: 20px;
+        border-radius: 50%;
+        margin: 0 0 0 100px;
+    }
+}

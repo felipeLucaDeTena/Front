@@ -1,0 +1,58 @@
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 6vw;
+    width: 70vw;
+    background-color: white;
+    border-radius: 0 0 0 4vw;
+    position: absolute;
+
+    &__logo {
+        align-self: flex-start;
+    }
+
+    &__links {
+        text-decoration: none;
+        color: black;
+        font-size: 1.5vw;
+
+        &-p {
+            background-color: transparent;
+            color: #abacab;
+            border: 2px solid #abacab;
+            font-size: 1.5vw;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 50%;
+            padding: 1vw 1.3vw;
+        }
+        &-b {
+            font-family: aldrich, sans-serif;
+            text-decoration: none;
+            color: black;
+            font-size: 1.5vw;
+            background-color: transparent;
+            border: none;
+        }
+        &-b:hover {
+            background-color: #abacab;
+            color: white;
+            padding: 2.3vw 1vw 1vw 1vw;
+            align-self: flex-start;
+            border-radius: 0 0 20% 20%;
+        }
+        &-p:hover {
+            background-color: #abacab;
+            color: white;
+            border: 2px solid transparent;
+        }
+    }
+    &__links:hover {
+        background-color: #abacab;
+        color: white;
+        padding: 2.3vw 1vw 1vw 1vw;
+        align-self: flex-start;
+        border-radius: 0 0 20% 20%;
+    }
+}

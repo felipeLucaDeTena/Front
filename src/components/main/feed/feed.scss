@@ -1,0 +1,72 @@
+.feedc {
+    &__img {
+        width: 100%;
+        height: 100%;
+        border-radius: 6vw;
+    }
+    &__overlay {
+        top: 0;
+        left: 0;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #abacab;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        border-radius: 6vw;
+
+        &__p {
+            color: white;
+            font-size: 25px;
+            font-weight: bold;
+            text-align: center;
+        }
+    }
+    &__overlay:hover {
+        opacity: 1;
+    }
+
+    &__container {
+        margin: 9vw auto 0 0;
+        background-color: white;
+        width: 98vw;
+        padding-bottom: 4vw;
+        border-radius: 0 15vw 15vw 0;
+        &__images {
+            width: 98vw;
+            display: grid;
+            grid-template-columns: auto auto auto;
+            justify-content: center;
+            margin: 5vw 0 0 0;
+        }
+        &__img {
+            width: 25vw;
+            height: 25vw;
+            border: 1px solid #abacab;
+            margin: 2vw;
+            border-radius: 6vw;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+    }
+    &__button {
+        font-family: aldrich, sans-serif;
+        background-color: transparent;
+        font-size: 3vw;
+        border: none;
+        margin: 4vw 0 0 4vw;
+        padding: 1vw 2vw;
+    }
+    &__button:hover {
+        background-color: #abacab;
+        color: white;
+        padding: 1vw 2vw;
+        border-radius: 20vw 20vw;
+    }
+}

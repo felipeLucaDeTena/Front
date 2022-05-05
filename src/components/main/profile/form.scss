@@ -1,0 +1,47 @@
+.form {
+    background-color: #abacab;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50vw;
+    height: 30vw;
+    justify-content: space-evenly;
+    border-radius: 5vw;
+    &__button {
+        color: #abacab;
+        font-size: 1vw;
+        border-radius: 1vh;
+        padding: 5px;
+        background-color: white;
+        border: 1px solid #abacab;
+        &__close {
+            margin: 0 5vw 0vw 13vw;
+            color: white;
+            background-color: transparent;
+            border: 1px solid white;
+            border-radius: 50%;
+        }
+    }
+    &__button:hover {
+        background-color: #abacab;
+        color: white;
+        border: 1px solid white;
+    }
+    &__input {
+        background-color: white;
+        border-radius: 2vh;
+        &__color {
+            width: 15vw;
+        }
+    }
+    &__title {
+        margin: 0;
+        color: white;
+        &__container {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            justify-content: flex-end;
+        }
+    }
+}
